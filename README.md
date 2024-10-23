@@ -38,4 +38,4 @@
 
 ## 사이드바 개발
 
-- sidebar.md 파일 추가
+- sidebar 개발
