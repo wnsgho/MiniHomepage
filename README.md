@@ -12,6 +12,10 @@
 
 - navigation.md 파일 추가
 
+## 구매 페이지 추가
+
+- buy.md 추가
+
 ## 로그인/로그아웃
 
 - Login
