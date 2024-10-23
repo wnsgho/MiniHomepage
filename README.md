@@ -8,6 +8,15 @@
 
 - about.md 파일 추가
 
+## 내비게이션 추가
+
+- navigation.md 파일 추가
+
+## 로그인/로그아웃
+
+- Login
+- Logout
+
 ## 정보
 
 - 혈액형: O형
